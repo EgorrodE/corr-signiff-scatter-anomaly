@@ -1,5 +1,6 @@
 # Visualization of correlation and sigifficance matrices with linked scatterplot
-## Belarusian State University, Faculty of Applied Math and Computer Science
+## Belarusian State University
+### Faculty of Applied Math and Computer Science
 
 **Yegor Tovstik's** course work on the topic:
 ## "Economical and Financial Data Visualization Algorithms and Software".
